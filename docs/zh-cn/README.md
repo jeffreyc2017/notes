@@ -30,7 +30,7 @@ While this repository is primarily a personal project, I welcome contributions i
 
 ## License
 
-This project is open-source and available under the [MIT License](/LICENSE). Feel free to use it for your own learning, share it with others, or contribute back to the community.
+This project is open-source and available under the [MIT License](https://github.com/jeffreyc2017/notes/blob/main/LICENSE). Feel free to use it for your own learning, share it with others, or contribute back to the community.
 
 ## Acknowledgments
 
