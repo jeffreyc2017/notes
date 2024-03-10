@@ -14,5 +14,5 @@
 
 - Spiritual Exploration
 
-    - Buddhism
+    - [Buddhism](buddhism.md)
     
