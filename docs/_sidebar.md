@@ -3,6 +3,16 @@
 
 - Computer Science
 
-    - [Stable Diffusion](stable-diffusion.md)
-    - [Prompts](prompts.md)
-    - [Bookmarks](bookmarks.md)
+    - Artificial Intelligence
+    
+        - [Stable Diffusion](stable-diffusion.md)
+        - [Prompts](prompts.md)
+    
+    - Tools
+        
+        - [Bookmarks](bookmarks.md)
+
+- Spiritual Exploration
+
+    - Buddism
+    

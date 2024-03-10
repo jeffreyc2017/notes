@@ -3,6 +3,15 @@
 
 - Computer Science
 
-    - [Stable Diffusion](/zh-cn/stable-diffusion.md)
-    - [Prompts](/zh-cn/prompts.md)
-    - [Bookmarks](/zh-cn/bookmarks.md)
+    - Artificial Intelligence
+
+        - [Stable Diffusion](/zh-cn/stable-diffusion.md)
+        - [Prompts](/zh-cn/prompts.md)
+    
+    - Tools
+
+        - [Bookmarks](/zh-cn/bookmarks.md)
+
+- 心灵探索
+
+    - 佛教
