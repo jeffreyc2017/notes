@@ -4,6 +4,11 @@
 
 ### 工具
 
+### Tools
+
+[今日热榜](https://tophub.today/)
+
+
 #### Markdown
 
 * [markdown 指南](https://www.markdownguide.org/basic-syntax/)
