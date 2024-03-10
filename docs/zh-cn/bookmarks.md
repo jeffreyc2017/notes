@@ -1,17 +1,17 @@
-# Bookmarks
+# 书签
 
-## Computer Science
+## 计算机科学
 
-### Tools
+### 工具
 
 #### Markdown
 
-* [markdown guide](https://www.markdownguide.org/basic-syntax/)
-* [github docs on markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [markdown 指南](https://www.markdownguide.org/basic-syntax/)
+* [github 关于 markdown 的文档](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
-## Spiritual Exploration
+## 心灵探索
 
-### Buddhism
+### 佛教
 
 * [cbeta](https://cbeta.org/)
