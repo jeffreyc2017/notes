@@ -7,7 +7,10 @@
 ### Tools
 
 - [今日热榜](https://tophub.today/)
+
+#### Hexo
 - [hexo - blog framework](https://hexo.io/index.html)
+- [hexo theme](https://www.theme-next.org/index.html)
 
 
 #### Markdown
