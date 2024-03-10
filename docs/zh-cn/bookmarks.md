@@ -4,8 +4,6 @@
 
 ### 工具
 
-### Tools
-
 - [今日热榜](https://tophub.today/)
 
 #### Hexo
