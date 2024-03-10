@@ -6,17 +6,18 @@
 
 ### Tools
 
-[今日热榜](https://tophub.today/)
+- [今日热榜](https://tophub.today/)
+- [hexo - blog framework](https://hexo.io/index.html)
 
 
 #### Markdown
 
-* [markdown 指南](https://www.markdownguide.org/basic-syntax/)
-* [github 关于 markdown 的文档](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [markdown 指南](https://www.markdownguide.org/basic-syntax/)
+- [github 关于 markdown 的文档](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
 ## 心灵探索
 
 ### 佛教
 
-* [cbeta](https://cbeta.org/)
+- [cbeta](https://cbeta.org/)
