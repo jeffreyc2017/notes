@@ -1,16 +1,16 @@
-- Welcome
-    - [notes](/zh-cn/README.md)
+- 欢迎
+    - [笔记](/zh-cn/README.md)
 
-- Computer Science
+- 计算机科学
 
-    - Artificial Intelligence
+    - 人工智能
 
-        - [Stable Diffusion](/zh-cn/stable-diffusion.md)
-        - [Prompts](/zh-cn/prompts.md)
+        - [稳定扩散](/zh-cn/stable-diffusion.md)
+        - [提示](/zh-cn/prompts.md)
     
-    - Tools
+    - 工具
 
-        - [Bookmarks](/zh-cn/bookmarks.md)
+        - [书签](/zh-cn/bookmarks.md)
 
 - 心灵探索
 

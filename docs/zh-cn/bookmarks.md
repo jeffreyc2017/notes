@@ -10,8 +10,8 @@
 * [github docs on markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 
-## 心灵探索
+## Spiritual Exploration
 
-### 佛教
+### Buddhism
 
 * [cbeta](https://cbeta.org/)
