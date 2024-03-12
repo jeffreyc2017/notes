@@ -17,7 +17,6 @@
             - [hexo - blog framework](https://hexo.io/index.html)
             - [hexo theme](https://www.theme-next.org/index.html)
 
-
         - Markdown
 
             - [markdown guide](https://www.markdownguide.org/basic-syntax/)
