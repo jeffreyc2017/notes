@@ -8,6 +8,7 @@
         - [WD](https://www.westerndigital.com/)
         - [TeamGroup](https://www.teamgroupinc.com/en/)
         - [Nvidia](https://www.nvidia.com/en-us/)
+        - [Intel](https://www.intel.com/)
 
     - Artificial Intelligence
     
