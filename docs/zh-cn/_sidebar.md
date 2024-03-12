@@ -2,6 +2,8 @@
     - [笔记](/zh-cn/README.md)
 
 - 计算机科学
+    - 硬件
+        - [system76](https://system76.com/)
 
     - 人工智能
 

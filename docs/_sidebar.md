@@ -2,6 +2,8 @@
     - [notes](README.md)
 
 - Computer Science
+    - Hardware
+        - [system76](https://system76.com/)
 
     - Artificial Intelligence
     
