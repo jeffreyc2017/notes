@@ -32,6 +32,7 @@
         - Media
             
             - [X(twitter)](https://developer.twitter.com/en)
+            - [Tweepy](https://www.tweepy.org/)
     
 - Spiritual Exploration
 
