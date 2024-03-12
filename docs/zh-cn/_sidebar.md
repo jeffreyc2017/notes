@@ -4,6 +4,7 @@
 - 计算机科学
     - 硬件
         - [system76](https://system76.com/)
+        - [Republic of Gamers](https://rog.asus.com/)
 
     - 人工智能
 
