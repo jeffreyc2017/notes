@@ -5,6 +5,7 @@
     - Hardware
         - [system76](https://system76.com/)
         - [Republic of Gamers](https://rog.asus.com/)
+        - [WD](https://www.westerndigital.com/)
 
     - Artificial Intelligence
     
