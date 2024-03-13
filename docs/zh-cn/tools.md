@@ -15,3 +15,7 @@
 - [X(twitter)](https://developer.twitter.com/en)
 - [Tweepy](https://www.tweepy.org/)
 - [今日热榜](https://tophub.today/)
+
+## Artificial Intelligence
+
+- [openai cookbook](https://cookbook.openai.com/examples/how_to_format_inputs_to_chatgpt_models)
