@@ -9,7 +9,7 @@
         - [Stable Diffusion](stable-diffusion.md)
         - [Prompts](prompts.md)
 
-    - [工具](tools.md)
+    - [Tools](tools.md)
     
 - Spiritual Exploration
 
