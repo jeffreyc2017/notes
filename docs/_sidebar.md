@@ -3,6 +3,7 @@
 
 - Computer Science
     - [Hardware](hardware.md)
+        - [Ram](ram.md)
 
     - Artificial Intelligence
     

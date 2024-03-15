@@ -3,6 +3,7 @@
 
 - 计算机科学
     - [硬件](/zh-cn/hardware.md)
+        - [Ram](/zh-cn/ram.md)
 
     - 人工智能
 
