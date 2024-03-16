@@ -8,7 +8,7 @@
     - 人工智能
 
         - [稳定扩散](/zh-cn/stable-diffusion.md)
-        - [提示](/zh-cn/prompts.md)
+        - [OpenAI](/zh-cn/openai.md)
 
     - [工具](/zh-cn/tools.md)
     
