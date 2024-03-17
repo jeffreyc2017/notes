@@ -15,3 +15,7 @@
 - [X(twitter)](https://developer.twitter.com/en)
 - [Tweepy](https://www.tweepy.org/)
 - [今日热榜](https://tophub.today/)
+
+## API
+
+- [OpenWeatherMap](https://openweathermap.org)
