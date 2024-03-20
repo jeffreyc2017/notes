@@ -8,7 +8,7 @@
     - Artificial Intelligence
     
         - [Stable Diffusion](stable-diffusion.md)
-        - [Prompts](prompts.md)
+        - [OpenAI](openai.md)
 
     - [Tools](tools.md)
     

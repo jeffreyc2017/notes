@@ -16,6 +16,10 @@
 - [Tweepy](https://www.tweepy.org/)
 - [tophub](https://tophub.today/)
 
+## API
+
+- [OpenWeatherMap](https://openweathermap.org)
+
 ## Artificial Intelligence
 
 - [openai cookbook](https://cookbook.openai.com/examples/how_to_format_inputs_to_chatgpt_models)
