@@ -43,3 +43,8 @@
     For realvnc you'll need to sign in and get a license to run.
 
 - Remote Ripple works but very slow.
+
+## Free resources
+
+- [free for dev](https://free-for.dev)
+    - [repo](https://github.com/ripienaar/free-for-dev)
