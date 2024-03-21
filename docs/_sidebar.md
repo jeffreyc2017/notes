@@ -2,7 +2,17 @@
     - [notes](README.md)
 
 - Computer Science
+    - [Hardware](hardware.md)
+        - [Ram](ram.md)
 
-    - [Stable Diffusion](stable-diffusion.md)
-    - [Prompts](prompts.md)
-    - [Bookmarks](bookmarks.md)
+    - Artificial Intelligence
+    
+        - [Stable Diffusion](stable-diffusion.md)
+        - [OpenAI](openai.md)
+
+    - [Tools](tools.md)
+    
+- Spiritual Exploration
+
+    - [Buddhism](buddhism.md)
+    
