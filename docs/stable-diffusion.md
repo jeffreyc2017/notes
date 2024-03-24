@@ -100,3 +100,16 @@ For individual users, especially freelancers using an "expert version" configura
 | Total |  | | Based on these configurations, the estimated total cost is around $2000 to $3000 USD. Actual prices will depend on market conditions, promotional activities, and specific brand choices. |
 
 This configuration offers freelancers a balanced option, meeting the needs of deep learning and other compute-intensive tasks while also considering cost-effectiveness. Users can adjust the configuration according to their specific needs and budget.
+
+## Software
+
+[stablediffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+[xformers](https://github.com/facebookresearch/xformers#installing-xformers)
+
+### How to check cuda version
+
+<https://stackoverflow.com/questions/9727688/how-to-get-the-cuda-version>
+
+```bash
+sudo apt install nvidia-cuda-toolkit
+```
