@@ -135,6 +135,6 @@
 
 <https://stackoverflow.com/questions/9727688/how-to-get-the-cuda-version>
 
-```bash
-sudo apt install nvidia-cuda-toolkit
-```
+    ```bash
+    sudo apt install nvidia-cuda-toolkit
+    ```
