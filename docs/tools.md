@@ -45,4 +45,4 @@
 ## Free resources
 
 - [free for dev](https://free-for.dev)
-    - [repo](https://github.com/ripienaar/free-for-dev)
+  - [repo](https://github.com/ripienaar/free-for-dev)

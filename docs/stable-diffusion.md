@@ -109,7 +109,14 @@ This configuration offers freelancers a balanced option, meeting the needs of de
 ### How to check cuda version
 
 <https://stackoverflow.com/questions/9727688/how-to-get-the-cuda-version>
+<https://www.cyberciti.biz/faq/how-to-find-the-nvidia-cuda-version/>
 
     ```bash
     sudo apt install nvidia-cuda-toolkit
+    ```
+
+or
+
+    ```bash
+    nvidia-smi
     ```
