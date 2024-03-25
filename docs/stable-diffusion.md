@@ -104,6 +104,7 @@ This configuration offers freelancers a balanced option, meeting the needs of de
 ## Software
 
 [stablediffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+[xformers]<https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Xformers>
 [xformers](https://github.com/facebookresearch/xformers#installing-xformers)
 
 ### How to check cuda version
