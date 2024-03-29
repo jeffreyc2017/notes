@@ -121,3 +121,8 @@ or
     ```bash
     nvidia-smi
     ```
+
+### How to run Stable Diffusion on Google Colab (AUTOMATIC1111)
+
+<[text](https://stable-diffusion-art.com/automatic1111-colab/)>
+
