@@ -42,6 +42,10 @@
 
 - Remote Ripple works but very slow.
 
+## Payment
+
+- [stripe](https://stripe.com/)
+
 ## Free resources
 
 - [free for dev](https://free-for.dev)
