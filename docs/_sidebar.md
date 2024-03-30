@@ -13,6 +13,8 @@
     - [Tools](tools.md)
     - [Cheatsheet](cheatsheet.md)
 
+- [Books](books.md)
+
 - Spiritual Exploration
 
     - [Buddhism](buddhism.md)
