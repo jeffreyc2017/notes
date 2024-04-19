@@ -2,7 +2,7 @@
 
 ## Trouble shooting steps
 
-### 1. Ensure GPG is Installed
+### Ensure GPG is Installed
 
 First, make sure GPG is correctly installed on your system. You can check this by running:
 
@@ -16,7 +16,7 @@ If GPG is not installed, you'll need to install it. The installation command dep
 sudo apt-get install gnupg
 ```
 
-### 2. Check GPG Key Configuration in Git
+### Check GPG Key Configuration in Git
 Next, ensure that your GPG key is correctly configured in Git. You can list the GPG keys available on your system with:
 
 ```bash
@@ -31,7 +31,7 @@ git config --global user.signingkey YOUR_KEY_ID
 
 Replace `YOUR_KEY_ID` with your actual key ID.
 
-### 3. Verify GPG Agent is Running
+### Verify GPG Agent is Running
 
 Git relies on the GPG agent to prompt you for your passphrase when signing commits. Ensure the GPG agent is running:
 
@@ -41,7 +41,7 @@ gpg-connect-agent /bye
 
 If it wasn't running before, try your commit again.
 
-### 4. Configure Git to Use the Correct GPG Program
+### Configure Git to Use the Correct GPG Program
 
 If you have both `gpg` and `gpg2` installed, Git might be configured to use the wrong version. Specify the correct GPG version in your Git configuration:
 
@@ -55,11 +55,11 @@ Or if you're using GPG 2:
 git config --global gpg.program gpg2
 ```
 
-### 5. Check for PIN Entry Issues
+### Check for PIN Entry Issues
 
 If you're using GPG in a graphical environment, ensure that the `pinentry` program is correctly configured to show the passphrase prompt. The configuration can vary based on your setup, but you might need to install or configure a `pinentry` package that works with your desktop environment.
 
-### 6. Try Signing a Message Manually
+### Try Signing a Message Manually
 
 Try manually signing a message with GPG to ensure that the signing process works outside of Git:
 
@@ -69,7 +69,7 @@ echo "test" | gpg --clearsign
 
 This can help verify if the issue is with GPG itself or how it's being used by Git.
 
-### 7. Examine the GPG and Git Logs
+### Examine the GPG and Git Logs
 
 Look at the GPG logs for more detailed error messages. You might need to enable debug logging for GPG. Also, check the Git output for any additional clues.
 
@@ -78,7 +78,7 @@ Look at the GPG logs for more detailed error messages. You might need to enable 
 
 Here are several methods to resolve this issue:
 
-### 1. Use `--pinentry-mode loopback`
+### Use `--pinentry-mode loopback`
 
 You can instruct GPG to accept the passphrase through the command line instead of trying to pop up a GUI or terminal dialog for passphrase entry. Use the `--pinentry-mode loopback` option and provide the passphrase via `--passphrase` or `--passphrase-file`. However, be cautious with this approach as it can expose your passphrase in command history or scripts.
 
@@ -88,7 +88,7 @@ echo "test" | gpg --clearsign --pinentry-mode loopback --passphrase 'your_passph
 
 Replace `'your_passphrase'` with your actual passphrase. Note: Using `--passphrase` directly in the command line can be insecure on multi-user systems, as it might be visible to other users via process listings.
 
-### 2. Configure GPG to Use Loopback for Pinentry by Default
+### Configure GPG to Use Loopback for Pinentry by Default
 
 You can configure GPG to use loopback mode for pinentry by default by editing your `~/.gnupg/gpg-agent.conf` file and adding:
 
@@ -117,7 +117,7 @@ gpgconf --kill gpg-agent
 gpgconf --launch gpg-agent
 ```
 
-### 3. Use a Terminal-Based `pinentry` Program
+### Use a Terminal-Based `pinentry` Program
 
 If you're operating in a terminal (e.g., over SSH) and still want to manually enter the passphrase, ensure that a terminal-based pinentry program is installed and configured. For instance, on Debian-based systems, you can install `pinentry-curses`:
 
@@ -133,7 +133,7 @@ pinentry-program /usr/bin/pinentry-curses
 
 Remember to restart the GPG agent after making changes.
 
-### 5. For Scripted Environments
+### For Scripted Environments
 
 In environments where interactive passphrase entry isn't possible (e.g., automated scripts), consider using loopback mode with caution or employing GPG's key management features to use keys without passphrase where absolutely necessary and secure to do so.
 
@@ -145,7 +145,7 @@ If using GPG with the `--pinentry-mode loopback` option works for signing manual
 
 Here are some steps to troubleshoot and potentially resolve the Git signing issue:
 
-### 5. Test GPG Commit Signing Again
+### Test GPG Commit Signing Again
 After making the necessary configurations, try committing again to test the GPG signing process:
 
 ```bash
@@ -158,18 +158,6 @@ Make sure to use the `-S` option to sign the commit explicitly if you haven't se
 If you continue to face issues, ensure that the `gpg-agent` is running and correctly configured for your environment. The GPG and Git versions, as well as specific system configurations, might affect how these steps work. Also, consider consulting the documentation for your specific Git and GPG versions for more detailed guidance tailored to your setup.
 
 If there's no `gpg-agent.conf` file in your `~/.gnupg` directory, you can create it manually. The `gpg-agent` configuration file allows you to set various options that control the behavior of `gpg-agent`, which is responsible for handling private keys and other security operations for GPG.
-
-
-- **Explicitly Set Pinentry Mode for Git:** While the `allow-loopback-pinentry` option should generally be sufficient, explicitly setting the pinentry mode when using GPG within Git can sometimes help. You can try configuring Git to use GPG with the loopback option:
-
-  ```bash
-  git config --global gpg.program "gpg --pinentry-mode loopback"
-  ```
-
-  Note: This command forces Git to use GPG with the `--pinentry-mode loopback` option directly. This might not work with all versions of Git and GPG.
-
-
-### 5. Verify Environment Variables
 
 ### Use `GPG_TTY` and Export It
 
@@ -201,7 +189,7 @@ The `GPG_TTY` environment variable helps GPG to understand which terminal device
    echo "test" | gpg --clear-sign
    ```
 
-### 6. Debug and Logs
+### Debug and Logs
 
 - **Enable GPG Debugging:** Enabling debug logging for GPG can provide more insights into what's going wrong.
 
@@ -222,34 +210,3 @@ After adjusting the configurations, try signing a commit again to see if the iss
 ```bash
 git commit -S -m "commit message"
 ```
-
-### Ensure Compatibility of Pinentry
-Given the issues you've encountered with pinentry, make sure you have a compatible pinentry program installed. If you're working in a GUI environment, ensure you have `pinentry-gui`. If you're in a terminal or SSH session, `pinentry-curses` might be more appropriate.
-
-If you haven't done so already, installing `pinentry-curses` (for terminal use) might help:
-
-```bash
-sudo apt-get install pinentry-curses
-```
-
-Then, configure GPG to use it (if not automatically detected) by adding the following line to `~/.gnupg/gpg-agent.conf`:
-
-```
-pinentry-program /usr/bin/pinentry-curses
-```
-
-Make sure to restart the GPG agent after making changes:
-
-```bash
-gpgconf --kill gpg-agent
-gpgconf --launch gpg-agent
-```
-
-### Debug GPG Signing
-Try manually signing a file using GPG to ensure that the signing process works correctly outside of Git:
-
-```bash
-echo "test" | gpg --clear-sign
-```
-
-If this command prompts for your passphrase (in the terminal or via a GUI dialog, depending on your setup) and successfully signs the message, it indicates that GPG itself is correctly configured.
