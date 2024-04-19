@@ -117,6 +117,12 @@ gpgconf --kill gpg-agent
 gpgconf --launch gpg-agent
 ```
 
+or
+
+```bash
+gpgconf --reload gpg-agent
+```
+
 ### Use a Terminal-Based `pinentry` Program
 
 If you're operating in a terminal (e.g., over SSH) and still want to manually enter the passphrase, ensure that a terminal-based pinentry program is installed and configured. For instance, on Debian-based systems, you can install `pinentry-curses`:
