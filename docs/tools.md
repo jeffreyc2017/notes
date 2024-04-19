@@ -58,4 +58,4 @@
 - https://nodejs.org/
 - https://react.dev/
 
-## GPG
+## [GPG](gpg.md)
