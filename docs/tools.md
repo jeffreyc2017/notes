@@ -57,3 +57,5 @@
 - https://docs.npmjs.com/getting-started
 - https://nodejs.org/
 - https://react.dev/
+
+## GPG
