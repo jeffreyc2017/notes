@@ -29,3 +29,8 @@
 - https://www.jeffgeerling.com/blog/2023/reducing-raspberry-pi-5s-power-consumption-140x
 - https://medium.com/@life-is-short-so-enjoy-it/raspberry-pi-4-reduce-halt-state-power-consumption-to-zero-7f6097fc1862
 - https://raspberry.piaustralia.com.au/blogs/getting-started-with-raspberry-pi-5/improving-raspberry-pi-5-power-efficiency-with-one-simple-fix
+
+#### Custom screen resolution
+
+- [iPad Pro specs](https://www.apple.com/au/ipad-pro/specs/)
+- https://github.com/raspberrypi/documentation/blob/develop/documentation/asciidoc/computers/configuration/display-resolution.adoc#
