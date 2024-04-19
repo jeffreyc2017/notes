@@ -50,3 +50,10 @@
 
 - [free for dev](https://free-for.dev)
   - [repo](https://github.com/ripienaar/free-for-dev)
+
+## Cloudflare
+
+- https://dash.cloudflare.com/
+- https://docs.npmjs.com/getting-started
+- https://nodejs.org/
+- https://react.dev/
