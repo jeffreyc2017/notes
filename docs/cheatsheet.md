@@ -48,6 +48,8 @@ git push
 git status
 git checkout main
 git merge write-db
+# or takes all commits from the other branch and groups it for a 1 commit with your current branch.
+git merge --squash write-db
 git push
 
 # Delete local and remote branches
