@@ -59,3 +59,10 @@
 - https://react.dev/
 
 ## [GPG](gpg.md)
+
+## Web Development
+
+- [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [javascript.info](https://javascript.info/)
+- [React](https://react.dev/learn)
+- [Online Converter](https://transform.tools/)
