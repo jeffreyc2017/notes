@@ -23,6 +23,10 @@
 ## Artificial Intelligence
 
 - [openai cookbook](https://cookbook.openai.com/examples/how_to_format_inputs_to_chatgpt_models)
+- GYM
+  - [gym](https://github.com/openai/gym)
+  - [gymnasium](https://gymnasium.farama.org/content/basic_usage/)
+  - [stable-retro](https://github.com/Farama-Foundation/stable-retro)
 
 ## Remote Desktop RDP & VNC
 
