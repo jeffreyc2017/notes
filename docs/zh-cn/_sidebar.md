@@ -10,8 +10,8 @@
         - [稳定扩散](/zh-cn/stable-diffusion.md)
         - [OpenAI](/zh-cn/openai.md)
 
-    - [工具](/zh-cn/tools.md)
-    
+    - [软件开发](/zh-cn/software-development.md)
+
 - 心灵探索
 
     - [佛教](/zh-cn/buddhism.md)
