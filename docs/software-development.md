@@ -25,11 +25,15 @@
 - chatgpt
   - [openai cookbook](https://cookbook.openai.com/examples/how_to_format_inputs_to_chatgpt_models)
   - [OpenAI API Free Reverse Proxy](https://github.com/pawanosman/chatgpt)
+  - [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/index.html)
 - GYM
   - [gym](https://github.com/openai/gym)
   - [gymnasium](https://gymnasium.farama.org/content/basic_usage/)
   - [stable-retro](https://github.com/Farama-Foundation/stable-retro)
     - [pages](http://stable-retro.farama.org)
+    - [ROMs](https://archive.org/details/No-Intro-Collection_2016-01-03_Fixed)
+    - [WOF move list](https://gamefaqs.gamespot.com/arcade/564356-warriors-of-fate/faqs/71365)
+    - [WOF walkthrough](https://gamefaqs.gamespot.com/arcade/564356-warriors-of-fate/faqs/11209)
 
 ## Remote Desktop RDP & VNC
 
@@ -60,10 +64,10 @@
 
 ## Cloudflare
 
-- https://dash.cloudflare.com/
-- https://docs.npmjs.com/getting-started
-- https://nodejs.org/
-- https://react.dev/
+- <https://dash.cloudflare.com/>
+- <https://docs.npmjs.com/getting-started>
+- <https://nodejs.org/>
+- <https://react.dev/>
 
 ## [GPG](gpg.md)
 
