@@ -30,6 +30,9 @@ git branch
 # Get the list of remote branches
 git branch -r
 
+# Get the list of both local and remote branches
+git branch -a
+
 # The list of branches with their remote tracking branch
 git branch -vv
 
