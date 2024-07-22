@@ -6,13 +6,15 @@
         - [Ram](ram.md)
 
     - Artificial Intelligence
-    
+
         - [Stable Diffusion](stable-diffusion.md)
         - [OpenAI](openai.md)
 
-    - [Tools](tools.md)
-    
+    - [Software Development](software-development.md)
+    - [Cheatsheet](cheatsheet.md)
+
+- [Books](books.md)
+
 - Spiritual Exploration
 
     - [Buddhism](buddhism.md)
-    

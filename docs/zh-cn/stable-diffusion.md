@@ -69,8 +69,6 @@
 
     两者都是深度学习研究和开发中最流行的框架，具体使用哪个框架主要取决于个人偏好、项目需求和生态系统支持。
 
-
-
 请注意，这些配置要求非常高端，主要适用于研究和大规模生产环境。对于个人用户或小型团队，根据具体需求，可以选择更适中的配置以平衡性能和成本。而且，硬件技术不断进步，新一代的产品可能会带来更好的性能。在购买硬件之前，建议查看最新的市场情况和产品评测。
 
 ### 成本估算
@@ -127,3 +125,24 @@
 | 总计 |  | | 根据这些配置，估计的总成本大约在 $2000 到 $3000 美元之间。实际价格将取决于市场情况、促销活动以及具体的品牌选择。 |
 
 这套配置为自由职业者提供了一个均衡的选择，既能满足深度学习和其他计算密集型任务的需求，同时也考虑到了成本效益。用户可以根据自己的具体需求和预算调整配置。
+
+## Software
+
+[stablediffusion webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+[xformers]<https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Xformers>
+[xformers](https://github.com/facebookresearch/xformers#installing-xformers)
+
+### How to check cuda version
+
+<https://stackoverflow.com/questions/9727688/how-to-get-the-cuda-version>
+<https://www.cyberciti.biz/faq/how-to-find-the-nvidia-cuda-version/>
+
+    ```bash
+    sudo apt install nvidia-cuda-toolkit
+    ```
+
+or
+
+    ```bash
+    nvidia-smi
+    ```

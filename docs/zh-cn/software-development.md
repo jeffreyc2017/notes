@@ -1,4 +1,4 @@
-# 工具
+# 软件开发
 
 ## Hexo
 
@@ -30,9 +30,9 @@
 
 - [Use iPad as second monitor ubuntu](https://www.omgubuntu.co.uk/2022/06/use-ipad-as-second-monitor-ubuntu-22-04)
 
-    ```bash
-    gsettings set org.gnome.desktop.remote-desktop.rdp screen-share-mode extend
-    ```
+  ```bash
+  gsettings set org.gnome.desktop.remote-desktop.rdp screen-share-mode extend
+  ```
 
 - <https://www.itpro.com/mobile/remote-access/368102/how-to-remote-desktop-into-ubuntu>
 - <https://linustechtips.com/topic/1402047-remote-desktop-from-ipad-to-linux-pc/>
@@ -40,11 +40,26 @@
 
 - <https://www.realvnc.com/en/>
 
-    For realvnc you'll need to sign in and get a license to run.
+  For realvnc you'll need to sign in and get a license to run.
 
 - Remote Ripple works but very slow.
 
 ## Free resources
 
 - [free for dev](https://free-for.dev)
-    - [repo](https://github.com/ripienaar/free-for-dev)
+  - [repo](https://github.com/ripienaar/free-for-dev)
+
+## Makefile autocompletion on Mac
+
+[Makefile autocompletion on Mac](https://stackoverflow.com/questions/33760647/makefile-autocompletion-on-mac)
+
+> This worked for me on Catalina in the standard zsh terminal
+
+Edit the file named .zshrc in you home directory this can be done with this command in the terminal nano ~/.zshrc
+Add the following lines
+
+```sh
+zstyle ':completion:*:*:make:*' tag-order 'targets'
+
+autoload -U compinit && compinit
+```
