@@ -1,20 +1,30 @@
 - Welcome
-    - [notes](README.md)
+
+  - [notes](README.md)
 
 - Computer Science
-    - [Hardware](hardware.md)
-        - [Ram](ram.md)
 
-    - Artificial Intelligence
+  - [Hardware](hardware.md)
 
-        - [Stable Diffusion](stable-diffusion.md)
-        - [OpenAI](openai.md)
+    - [Ram](ram.md)
 
-    - [Software Development](software-development.md)
-    - [Cheatsheet](cheatsheet.md)
+  - Artificial Intelligence
+
+    - [Stable Diffusion](stable-diffusion.md)
+    - [OpenAI](openai.md)
+
+  - [Software Development](software-development.md)
+
+    - [OS](os.md)
+
+      - [Emulation](emulation.md)
+
+        - [BOCHS](bochs.md)
+
+  - [Cheatsheet](cheatsheet.md)
 
 - [Books](books.md)
 
 - Spiritual Exploration
 
-    - [Buddhism](buddhism.md)
+  - [Buddhism](buddhism.md)
