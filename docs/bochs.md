@@ -23,3 +23,9 @@ version:
                 Timestamp: Sun Aug  1 10:07:00 CEST 2021
 ========================================================================
 ```
+
+Issues:
+
+- [Black screen issue on Ubuntu 22.04](https://stackoverflow.com/questions/73067357/bochs-can-not-load-bootloader-using-a-floppy-image/73084308#73084308)
+
+> On Ubuntu 22.04 I also get bx_dbg_read_linear: physical memory read error (phy=0x0000322f3130, lin=0x00000000322f3130). This is due to a bad BIOS-bochs-latest ROM image. Replacing this with either BIOS-bochs-legacy from the Ubuntu package, or BIOS-bochs-latest from a more recent
