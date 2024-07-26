@@ -37,4 +37,7 @@ git push
 # Delete local and remote branches
 git branch -d write-db
 git push origin --delete write-db
+
+# Rebase your branch onto the remote branch
+git pull --rebase
 ```
