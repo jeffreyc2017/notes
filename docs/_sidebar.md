@@ -24,6 +24,7 @@
   - [Cheatsheet](cheatsheet.md)
     - [apt](apt.md)
     - [git](git.md)
+  - [Bitcoin](bitcoin.md)
 
 - [Books](books.md)
 
