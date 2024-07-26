@@ -22,6 +22,8 @@
         - [BOCHS](bochs.md)
 
   - [Cheatsheet](cheatsheet.md)
+    - [apt](apt.md)
+    - [git](git.md)
 
 - [Books](books.md)
 
