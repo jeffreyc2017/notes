@@ -22,11 +22,8 @@
         - [BOCHS](bochs.md)
 
   - [Cheatsheet](cheatsheet.md)
-<<<<<<< HEAD
     - [apt](apt.md)
     - [git](git.md)
-=======
->>>>>>> 83a9488 (Added Bitcoin)
   - [Bitcoin](bitcoin.md)
 
 - [Books](books.md)
