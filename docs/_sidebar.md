@@ -12,6 +12,7 @@
 
     - [Stable Diffusion](stable-diffusion.md)
     - [OpenAI](openai.md)
+    - [Claude.ai](claude-ai.md)
 
   - [Software Development](software-development.md)
 
@@ -20,6 +21,8 @@
       - [Emulation](emulation.md)
 
         - [BOCHS](bochs.md)
+
+      - [Boot manager](boot-manager.md)
 
   - [Cheatsheet](cheatsheet.md)
     - [apt](apt.md)
