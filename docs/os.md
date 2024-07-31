@@ -58,16 +58,9 @@
    # git checkout v3.3.0 # we do not want to mess with bleeding edge code (do we?)
    ```
 
-### References
-
-- [minix3](https://www.minix3.org)
-- [code](https://github.com/Stichting-MINIX-Research-Foundation/minix)
-- [wiki](https://en.wikipedia.org/wiki/Minix)
-- <https://gist.github.com/Drowze/2f7cbce35ade1fa94b2511f4138a32c2>
-- [build in Minix](https://wiki.minix3.org/doku.php?id=releases:3.2.1:developersguide:trackingcurrent)
-- [issue with git clone](https://groups.google.com/g/minix3/c/av5gZMLO6y8)
-
 ### Cross-compile on Ubuntu 22.04 LTS
+
+It works with this env:
 
 ```sh
 $ lsb_release -a
@@ -76,6 +69,17 @@ Distributor ID: Ubuntu
 Description:    Ubuntu 22.04.4 LTS
 Release:        22.04
 Codename:       jammy
+$ gcc --version
+gcc (Ubuntu 9.5.0-1ubuntu1~22.04) 9.5.0
+Copyright (C) 2019 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+$ g++ --version
+g++ (Ubuntu 9.5.0-1ubuntu1~22.04) 9.5.0
+Copyright (C) 2019 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
 
 ```sh
@@ -129,9 +133,21 @@ Press <enter> to keep the current choice[*], or type selection number:
 
 - <https://gist.github.com/petershh/1973b8f723fb36242c9558a23408d469>
 
+### References
+
+- [minix3](https://www.minix3.org)
+- [code](https://github.com/Stichting-MINIX-Research-Foundation/minix)
+- [wiki](https://en.wikipedia.org/wiki/Minix)
+- <https://gist.github.com/Drowze/2f7cbce35ade1fa94b2511f4138a32c2>
+- [build in Minix](https://wiki.minix3.org/doku.php?id=releases:3.2.1:developersguide:trackingcurrent)
+- [issue with git clone](https://groups.google.com/g/minix3/c/av5gZMLO6y8)
+- [The future of MINIX](https://groups.google.com/g/minix3/c/nUG1NwxXXkg)
+
 ## NetBSD
 
 - <https://www.netbsd.org/>
+
+- [How Minix compares against NetBSD](https://groups.google.com/g/minix3/c/0-Il5yegXgE)
 
 ## FreeBSD
 
@@ -139,6 +155,10 @@ Press <enter> to keep the current choice[*], or type selection number:
 
 - <https://www.quora.com/Why-does-minix3-use-the-NetBSD-userland-opposed-to-FreeBSD-or-a-linux-userland-with-more-programs>
 - <https://www.quora.com/Why-would-someone-use-BSD-as-opposed-to-a-version-of-Linux-and-what-are-the-advantages-of-the-former>
+
+## OpenBSD
+
+- <https://www.openbsd.org/>
 
 ## macOS
 
