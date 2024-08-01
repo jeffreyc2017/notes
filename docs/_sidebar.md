@@ -18,6 +18,8 @@
 
     - [OS](os.md)
 
+      - [MINIX](minix.md)
+
       - [Emulation](emulation.md)
 
         - [BOCHS](bochs.md)
