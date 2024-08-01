@@ -45,3 +45,5 @@
 - [MacBook Pro shuts down at 40% battery](https://discussions.apple.com/thread/250650983?sortBy=rank)
 - [coconut battery](https://www.coconut-flavour.com/coconutbattery/)
 - [battery issue](https://zh.ifixit.com/Answers/View/342625/MacBook+shuts+down+randomly+with+still+battery+charge+left?srsltid=AfmBOoq9rhB8ldXyjkkDe6SEkENLp3yvxZu0jeB43MfCzIfJMhqpEA7E)
+
+- [Reset NVRAM](https://support.apple.com/en-us/102539)
