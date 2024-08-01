@@ -19,6 +19,7 @@
     - [OS](os.md)
 
       - [MINIX](minix.md)
+      - [LINUX](linux.md)
 
       - [Emulation](emulation.md)
 
