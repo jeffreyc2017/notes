@@ -19,12 +19,3 @@
 ## OpenBSD
 
 - <https://www.openbsd.org/>
-
-## macOS
-
-```sh
-sudo launchctl load -w /System/Library/LaunchDaemons/ssh.plist
-```
-
-- [remote login issue resolution](https://apple.stackexchange.com/questions/442379/cant-enable-ssh-on-catalina-system-preferences-keeps-saying-remote-login-sta/442380#442380)
-- [remote login issue](https://discussions.apple.com/thread/253932000?sortBy=rank)
