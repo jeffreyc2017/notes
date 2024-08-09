@@ -181,3 +181,9 @@ Not successful with macOS. Only note the setup of gcc-9 below:
 - [build in Minix](https://wiki.minix3.org/doku.php?id=releases:3.2.1:developersguide:trackingcurrent)
 - [issue with git clone](https://groups.google.com/g/minix3/c/av5gZMLO6y8)
 - [The future of MINIX](https://groups.google.com/g/minix3/c/nUG1NwxXXkg)
+
+## Code understanding
+
+- [ITEC856 Self-study Units](http://web.science.mq.edu.au/~mike/itec856/os/selfstud.html)
+- [MINIX 2](https://minix1.woodhull.com/docs.html)
+- [MINIX 3](https://wiki.minix3.org/doku.php?id=developersguide:start)
