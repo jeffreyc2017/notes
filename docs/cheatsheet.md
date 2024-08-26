@@ -41,3 +41,9 @@ for snap in $disabled_snaps; do
     done
 done
 ```
+
+### Close dead ssh connection
+
+[how to exit broken ssh session](https://discussion.fedoraproject.org/t/howto-exit-bad-broken-locked-ssh-sessions/68608)
+
+> you can just close the SSH session with an escape sequence: next time, just do Enter + ~ + . ! So just press the enter key, followed by the tilde key followed by the dot - and you should be back to your terminal!

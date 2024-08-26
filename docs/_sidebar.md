@@ -32,6 +32,7 @@
     - [apt](apt.md)
     - [git](git.md)
   - [Bitcoin](bitcoin.md)
+  - [Minecraft](minecraft.md)
 
 - [Books](books.md)
 
