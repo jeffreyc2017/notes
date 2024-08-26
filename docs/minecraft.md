@@ -22,6 +22,9 @@ sudo mkdir minecraft
 
 sudo groupadd minecraft
 sudo useradd --system --shell /usr/sbin/nologin --home /opt/minecraft -g minecraft minecraft
+sudo chown -R minecraft:minecraft /opt/minecraft/survival
+sudo chmod -R 755 /opt/minecraft/survival
+sudo chmod -R 775 /opt/minecraft/survival/logs
 ```
 
 start.sh
