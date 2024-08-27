@@ -33,6 +33,7 @@
     - [git](git.md)
   - [Bitcoin](bitcoin.md)
   - [Minecraft](minecraft.md)
+  - [local run](localrun.md)
 
 - [Books](books.md)
 
