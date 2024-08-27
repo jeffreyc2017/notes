@@ -15,8 +15,34 @@ To access a service running on a local host behind a carrier-grade NAT (CGNAT), 
    ssh -R 0.0.0.0:3456:localhost:3456 user@vps_public_ip
    ```
 
+   You may need to add the -N flag to prevent the SSH command from running a shell command on the remote host:
+
+   ```sh
+   ssh -N -R 0.0.0.0:8080:localhost:3456 user@compute_engine_ip
+   ```
+
    This command forwards all traffic on port 3456 of the VPS to port 3456 of your local server.
    Access the Service: You can now access the service on your local server by connecting to vps_public_ip:3456 from the internet.
+
+   SSH Server Configuration on Compute Engine:
+   Check the SSH server configuration on the Compute Engine to ensure it allows remote port forwarding:
+   On the Compute Engine, open the SSH configuration file:
+
+   ```bash
+   sudo nano /etc/ssh/sshd_config
+   ```
+
+   Look for the GatewayPorts setting. It should be set to yes:
+
+   ```bash
+   GatewayPorts yes
+   ```
+
+   If you modify this setting, restart the SSH service:
+
+   ```bash
+   sudo systemctl restart ssh
+   ```
 
 2. Set Up a VPN
    VPN Server on VPS: Set up a VPN server on a VPS with a public IP address.
