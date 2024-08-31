@@ -52,8 +52,16 @@
 
 ##### Seagate
 
+[How To Mount NTFS Volumes Manually](https://kb.paragon-software.com/article/56)
+
 ```sh
 diskutil list
 sudo mkdir /Volumes/ntfs
 sudo /Library/Filesystems/ufsd_NTFS.fs/Contents/Resources/mount_ufsd_NTFS /dev/disk2s2 /Volumes/ntfs
+```
+
+umount
+
+```sh
+sudo umount /Volumes/ntfs
 ```
