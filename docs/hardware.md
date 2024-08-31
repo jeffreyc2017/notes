@@ -47,3 +47,13 @@
 - [battery issue](https://zh.ifixit.com/Answers/View/342625/MacBook+shuts+down+randomly+with+still+battery+charge+left?srsltid=AfmBOoq9rhB8ldXyjkkDe6SEkENLp3yvxZu0jeB43MfCzIfJMhqpEA7E)
 
 - [Reset NVRAM](https://support.apple.com/en-us/102539)
+
+#### Portable Hard Drive
+
+##### Seagate
+
+```sh
+diskutil list
+sudo mkdir /Volumes/ntfs
+sudo /Library/Filesystems/ufsd_NTFS.fs/Contents/Resources/mount_ufsd_NTFS /dev/disk2s2 /Volumes/ntfs
+```
