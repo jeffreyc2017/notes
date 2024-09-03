@@ -55,9 +55,21 @@
 [How To Mount NTFS Volumes Manually](https://kb.paragon-software.com/article/56)
 
 ```sh
-diskutil list
+#!/bin/bash
+
 sudo mkdir /Volumes/ntfs
-sudo /Library/Filesystems/ufsd_NTFS.fs/Contents/Resources/mount_ufsd_NTFS /dev/disk2s2 /Volumes/ntfs
+
+# Get the partition identifier
+partition=$(diskutil list | grep "Microsoft Basic Data Seagate" | awk '{print $NF}')
+
+# Check if the partition was found
+if [ -z "$partition" ]; then
+    echo "Partition not found"
+    exit 1
+fi
+
+# Construct and execute the mount command
+sudo /Library/Filesystems/ufsd_NTFS.fs/Contents/Resources/mount_ufsd_NTFS /dev/$partition /Volumes/ntfs
 ```
 
 umount
