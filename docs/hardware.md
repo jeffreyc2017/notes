@@ -72,8 +72,12 @@ fi
 sudo /Library/Filesystems/ufsd_NTFS.fs/Contents/Resources/mount_ufsd_NTFS /dev/$partition /Volumes/ntfs
 ```
 
-umount
+unmount and eject
 
 ```sh
-sudo umount /Volumes/ntfs
+% sudo diskutil unmountDisk /dev/disk4
+Password:
+Unmount of all volumes on disk4 was successful
+% sudo diskutil eject /dev/disk4
+Disk /dev/disk4 ejected
 ```
