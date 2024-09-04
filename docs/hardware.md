@@ -57,27 +57,41 @@
 ```sh
 #!/bin/bash
 
-sudo mkdir /Volumes/ntfs
-
 # Get the partition identifier
 partition=$(diskutil list | grep "Microsoft Basic Data Seagate" | awk '{print $NF}')
 
+echo $partition
 # Check if the partition was found
 if [ -z "$partition" ]; then
     echo "Partition not found"
     exit 1
 fi
 
-# Construct and execute the mount command
-sudo /Library/Filesystems/ufsd_NTFS.fs/Contents/Resources/mount_ufsd_NTFS /dev/$partition /Volumes/ntfs
-```
+# Check the mounting status of the partition
+if diskutil info /dev/$partition | grep "Mounted" | grep -q "Yes"; then
+    echo "Partition is already mounted."
 
-unmount and eject
+    # Prompt the user before unmounting and ejecting
+    read -p "Do you want to unmount and eject the partition? (y/n) " confirm
+    if [ "$confirm" = "y" ]; then
+        base_disk=$(echo "$partition" | sed 's/s[0-9]*$//')
+        echo "$base_disk"
 
-```sh
-% sudo diskutil unmountDisk /dev/disk4
-Password:
-Unmount of all volumes on disk4 was successful
-% sudo diskutil eject /dev/disk4
-Disk /dev/disk4 ejected
+        # Unmount the partition
+        sudo diskutil unmountDisk /dev/$base_disk
+
+        # Eject the partition
+        sudo diskutil eject /dev/$base_disk
+    else
+        echo "Skipping unmount and eject."
+    fi
+else
+    echo "Partition is not mounted. Mounting it now..."
+
+    sudo mkdir /Volumes/ntfs
+
+    # Mount the partition
+    sudo /Library/Filesystems/ufsd_NTFS.fs/Contents/Resources/mount_ufsd_NTFS /dev/$partition /Volumes/ntfs
+    echo "Partition mounted."
+fi
 ```
