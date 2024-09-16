@@ -13,6 +13,11 @@
 - 《习禅录影》1976
 - 《新旧的一代》　 1977
 - 《参禅日记》（初集，原名：外婆禅）　金满慈著　南怀瑾批 1980
+- [《唯识与中观》 1981](http://read.goodweb.net.cn/news/news_view.asp?newsid=29950)
+
+  - [唯識與中觀研究](http://greatsupreme.joinbbs.net/viewthread.php?tid=2511&extra=page%3D1)
+  - [唯识与中观](http://fobook.top/view/nanhuaijinzuopinji/0H05022018.html)
+
 - 《参禅日记》（续集）　金满慈著　南怀瑾批　 1983
 - 《定慧初修》　袁焕仙　南怀瑾合著　 1983
 - 《孟子旁通》（一）　 1984
@@ -54,5 +59,3 @@
 - 《瑜伽师地论声闻地讲录》（上下）2012
 - 《二十一世纪初的前言后语》2012
 - 《話說中庸》2015
-
-[《唯识与中观》 1981](http://read.goodweb.net.cn/news/news_view.asp?newsid=29950)
