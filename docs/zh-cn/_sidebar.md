@@ -19,3 +19,6 @@
 
   - [佛教](/zh-cn/buddhism.md)
   - [南怀瑾](/zh-cn/nhj.md)
+
+    - [《中观与唯识》](/zh-cn/wsyzg.md)
+    - [《瑜伽师地论声闻地讲录》](/zh-cn/yqsdlswdjl.md)
