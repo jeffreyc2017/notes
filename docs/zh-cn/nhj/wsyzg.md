@@ -1,9 +1,9 @@
 # 《中观与唯识》
 
-[PDF 完整版](https://blog.sina.com.cn/s/blog_4461c58f0102z7cj.html)
-[Audio](http://www.shixiu.net/download/nsly/101.html)
-
-```text
+- [PDF 完整版](https://blog.sina.com.cn/s/blog_4461c58f0102z7cj.html)
+- [Audio](http://www.shixiu.net/download/nsly/101.html)
+- [唯識與中觀研究](http://greatsupreme.joinbbs.net/viewthread.php?tid=2511&extra=page%3D1)
+- [唯识与中观](http://fobook.top/view/nanhuaijinzuopinji/0H05022018.html)
 
 当知未知,多闻阙疑
 集思廣益
@@ -14,7 +14,6 @@
 阿陀那识
 异熟识
 三自性：依他起、遍计所执、圆成实性
-
 
 修道只管見分不管相分。
 修行要在見分上修。
@@ -99,7 +98,6 @@
 《永嘉禅宗集》讲的是般若
 
 所以中国禅宗祖师 只教你一个法门，什么是佛?放下。第二句话不讲了。再讲第二句话看看你，有时候 看都不看，头一转，根本就没有放下，还像做梦一样的。
-```
 
 - 苦：
 
