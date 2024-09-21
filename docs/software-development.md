@@ -83,3 +83,7 @@
 ### Android
 
 - [Android](https://developer.android.com)
+
+## Text to Speech
+
+- https://cloud.google.com/text-to-speech#pricing
