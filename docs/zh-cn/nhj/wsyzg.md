@@ -4,6 +4,7 @@
 - [Audio](http://www.shixiu.net/download/nsly/101.html)
 - [唯識與中觀研究](http://greatsupreme.joinbbs.net/viewthread.php?tid=2511&extra=page%3D1)
 - [唯识与中观](http://fobook.top/view/nanhuaijinzuopinji/0H05022018.html)
+- [唯识与中观](http://read.goodweb.net.cn/news/news_view.asp?newsid=29950)
 
 当知未知,多闻阙疑
 集思廣益
