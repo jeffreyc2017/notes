@@ -20,3 +20,5 @@
   - [佛教](/zh-cn/buddhism.md)
 
     - [南怀瑾](/zh-cn/nhj/nhj.md)
+
+  - [Monroe institute](/zh-cn/monroe.md)
