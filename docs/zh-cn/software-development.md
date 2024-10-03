@@ -63,3 +63,7 @@ zstyle ':completion:*:*:make:*' tag-order 'targets'
 
 autoload -U compinit && compinit
 ```
+
+## Animation
+
+- [OpenToonz](https://opentoonz.github.io/e/)
