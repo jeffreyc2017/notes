@@ -20,5 +20,6 @@
   - [佛教](/zh-cn/buddhism.md)
 
     - [南怀瑾](/zh-cn/nhj/nhj.md)
+    - [指月录](/zh-cn/zyl.md)
 
   - [Monroe institute](/zh-cn/monroe.md)
