@@ -35,6 +35,8 @@
   - [Minecraft](minecraft.md)
   - [local run](localrun.md)
 
+- [Physics](physics.md)
+
 - [Books](books.md)
 
 - Spiritual Exploration
