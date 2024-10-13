@@ -21,7 +21,6 @@
 
     - [南怀瑾](/zh-cn/nhj/nhj.md)
     - [指月录](/zh-cn/zyl.md)
-
     - [咒语](/zh-cn/mantra.md)
 
       - 准提咒
