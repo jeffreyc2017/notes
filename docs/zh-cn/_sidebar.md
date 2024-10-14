@@ -23,9 +23,4 @@
     - [指月录](/zh-cn/zyl.md)
     - [咒语](/zh-cn/mantra.md)
 
-      - 准提咒
-      - [楞严咒](/zh-cn/lengyanzhou.md)
-      - 六字大明咒
-      - 大悲咒
-
   - [Monroe institute](/zh-cn/monroe.md)
