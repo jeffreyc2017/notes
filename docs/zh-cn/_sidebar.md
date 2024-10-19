@@ -19,8 +19,9 @@
 
   - [佛教](/zh-cn/buddhism.md)
 
-    - [南怀瑾](/zh-cn/nhj/nhj.md)
-    - [指月录](/zh-cn/zyl.md)
+    - [经](/zh-cn/sutra.md)
+    - [汉地宗派](/zh-cn/hdzp.md)
     - [咒语](/zh-cn/mantra/mantra.md)
+    - [书籍](/zh-cn/books.md)
 
   - [Monroe institute](/zh-cn/monroe.md)
