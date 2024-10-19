@@ -2,6 +2,9 @@
 
 [年譜](http://www.nanhuaijin.cn/Item/14.aspx)
 [述著目录](https://zh.wikipedia.org/wiki/南怀瑾)
+[实修驿站](http://www.shixiu.net/index.html)
+
+## 著作
 
 - 《禅海蠡测》1955
 - 《楞严大义今译》1960

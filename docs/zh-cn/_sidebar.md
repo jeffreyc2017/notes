@@ -24,4 +24,6 @@
     - [咒语](/zh-cn/buddhism/mantra/mantra.md)
     - [书籍](/zh-cn/buddhism/books.md)
 
+  - [道教](/zh-cn/taoism/taoism.md)
+
   - [Monroe institute](/zh-cn/monroe.md)
