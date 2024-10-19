@@ -30,7 +30,7 @@
   - 太虚大师
 
 - 居士
-  - [南怀瑾](/zh-cn/nhj/nhj.md)
+  - [南怀瑾](/zh-cn/buddhism/nhj/nhj.md)
 
 ## 净土宗
 

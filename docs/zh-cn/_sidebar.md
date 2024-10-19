@@ -17,11 +17,11 @@
 
 - 心灵探索
 
-  - [佛教](/zh-cn/buddhism.md)
+  - [佛教](/zh-cn/buddhism/buddhism.md)
 
-    - [经](/zh-cn/sutra.md)
-    - [汉地宗派](/zh-cn/hdzp.md)
-    - [咒语](/zh-cn/mantra/mantra.md)
-    - [书籍](/zh-cn/books.md)
+    - [经](/zh-cn/buddhism/sutra/sutra.md)
+    - [汉地宗派](/zh-cn/buddhism/hdzp.md)
+    - [咒语](/zh-cn/buddhism/mantra/mantra.md)
+    - [书籍](/zh-cn/buddhism/books.md)
 
   - [Monroe institute](/zh-cn/monroe.md)
