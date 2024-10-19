@@ -15,7 +15,7 @@
 
   - [软件开发](/zh-cn/software-development.md)
 
-- 心灵探索
+- [心灵探索](/zh-cn/spiritual-exploration.md)
 
   - [佛教](/zh-cn/buddhism/buddhism.md)
 
