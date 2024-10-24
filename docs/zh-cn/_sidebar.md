@@ -20,10 +20,21 @@
   - [佛教](/zh-cn/buddhism/buddhism.md)
 
     - [经](/zh-cn/buddhism/sutra/sutra.md)
-    - [汉地宗派](/zh-cn/buddhism/hdzp.md)
+    - 三无漏学
+
+      - [戒](/zh-cn/buddhism/jie.md)
+      - [定](/zh-cn/buddhism/chan.md)
+      - [慧](/zh-cn/buddhism/hui.md)
+
     - [咒语](/zh-cn/buddhism/mantra/mantra.md)
     - [书籍](/zh-cn/buddhism/books.md)
+    - [汉地宗派](/zh-cn/buddhism/hdzp.md)
 
   - [道教](/zh-cn/taoism/taoism.md)
+  - [基督教]
 
   - [Monroe institute](/zh-cn/monroe.md)
+
+  - [《瑜伽经》](/zh-cn/yujiajing.md)
+  - 第四道
+  - 奥修
