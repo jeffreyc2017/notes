@@ -31,10 +31,11 @@
     - [汉地宗派](/zh-cn/buddhism/hdzp.md)
 
   - [道教](/zh-cn/taoism/taoism.md)
-  - [基督教]
+  - [基督教](/zh-cn/jesus.md)
 
   - [Monroe institute](/zh-cn/monroe.md)
 
   - [《瑜伽经》](/zh-cn/yujiajing.md)
   - 第四道
   - 奥修
+  - [CIA](/zh-cn/cia/cia.md)
