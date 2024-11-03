@@ -74,4 +74,7 @@
 ## 沩仰宗
 
 - 祖师
+
   - 第九代 宣化上人
+
+- [星云大师](https://books.masterhsingyun.org/article/articlelist)
