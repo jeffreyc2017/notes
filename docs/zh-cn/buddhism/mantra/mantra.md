@@ -3,7 +3,7 @@
 ## 禪門日誦
 
 - [楞严咒](/zh-cn/buddhism/mantra/lengyanzhou.md)
-- 大悲咒
+- [大悲咒](/zh-cn/buddhism/mantra/dabeizhou.md)
 - 十小咒
 
   - 如意寶輪王陀羅尼
